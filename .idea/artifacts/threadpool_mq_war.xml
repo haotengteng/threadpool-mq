@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="threadpool-mq:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mq-threadpool.war">
+      <element id="artifact" artifact-name="threadpool-mq:war exploded" />
+    </root>
+  </artifact>
+</component>
